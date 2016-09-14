@@ -1,0 +1,32 @@
+1.addCandle
+参数 无
+返回值 {code : 200}
+
+2.getCandle
+参数 无
+返回值 {code:200, content:2134234}
+
+3.addFlower
+参数 无
+返回值 {code : 200}
+
+4.getCandle
+参数 无
+返回值 {code:200, content:2134234}
+
+5.addComment
+参数 content
+返回值 {code : 200}
+
+6.getComment
+参数 无
+{
+	"code" : 200,
+	"content" : [
+		"烈士们，走好！",
+		"沉痛缅怀！",
+		"历史将会铭记烈士！",
+		"铭记历史，牢记使命！",
+		"铭记历史，牢记使命！铭记历史，牢记使命！铭记历史，牢记使命！铭记历史，牢记使命！铭记历史，牢记使命！"
+	]
+}
